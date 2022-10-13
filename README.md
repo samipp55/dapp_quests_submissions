@@ -2,7 +2,8 @@
 
 ## Chapter 1 Day 1 
 1. Blockchain is open decentralized public database. So everybody can see information that is stored there.
-2. 
+2. Smart Contracts are programs, or "rulebooks" that developers make. Smart Contracts are fast, and there is no middleman. The Blockchain, and thus Smart Contracts, are extremely secure if we make them that way. Hard to get right: While Smart Contracts are cool, they are NOT smart. Can be malicious if the developer is mean. must make sure you interact with Smart Contracts that you know are secure. Cannot undo something
+3. 
 
 ## Chapter 2 Day 1
 1. frontend is visible site of application that users can see and where they communicate with app / dapp. backend is e.g. database in the cloud server where all App data is stored.
