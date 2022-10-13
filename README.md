@@ -1,7 +1,8 @@
 # quest-submission
 
 ## Chapter 1 Day 1 
-1. Blockchain is decentralized, open, database that anyone can view
+1. Blockchain is open decentralized public database. So everybody can see information that is stored there.
+2. 
 
 ## Chapter 2 Day 1
 1. frontend is visible site of application that users can see and where they communicate with app / dapp. backend is e.g. database in the cloud server where all App data is stored.
