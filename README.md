@@ -37,9 +37,17 @@
 <img width="589" alt="Screenshot 2022-10-19 at 15 30 16" src="https://user-images.githubusercontent.com/114108357/196691232-54537e09-9d3f-488e-a6eb-5f804c810f7b.png">
 
 
-4a. Inside of your <main> tag, add a <p> tag and put whatever text you want in it.
+4a. Inside of your main tag, add a p tag and put whatever text you want in it.
 
 <img width="572" alt="Screenshot 2022-10-19 at 15 20 39" src="https://user-images.githubusercontent.com/114108357/196689209-ed4580b7-8512-4c5b-b41f-317001adc3e3.png">
+  
+  <img width="823" alt="Screenshot 2022-10-19 at 15 32 13" src="https://user-images.githubusercontent.com/114108357/196691604-83cfe715-00a1-40c9-b830-829d688db4aa.png">
+
 
 4b. Go to the .main class and add this line: flex-direction: column. Watch what it does!
 
+  <img width="592" alt="Screenshot 2022-10-19 at 15 33 40" src="https://user-images.githubusercontent.com/114108357/196691899-a6d1023a-1871-428f-b5b4-4d5fec9f4fd3.png">
+
+<img width="1340" alt="Screenshot 2022-10-19 at 15 34 26" src="https://user-images.githubusercontent.com/114108357/196692077-e926e238-d24e-4c6d-95a7-21d9315a70cb.png">
+
+ I believe this is not wanted result, but I tested few ways to add that flex-direction and could find what would make sense for me... 
