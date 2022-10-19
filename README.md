@@ -15,3 +15,31 @@
 3. <img width="1221" alt="Screenshot 2022-10-13 at 11 49 23" src="https://user-images.githubusercontent.com/114108357/195556259-67d1aa85-e52e-473c-862a-4c588529f501.png">
 
 4. https://github.com/samipp55/emerald-dapp
+
+## Chapter 2 Day 2
+
+1. Change the color of "Emerald DApp" to whatever color you want:
+
+<img width="187" alt="Screenshot 2022-10-19 at 15 26 34" src="https://user-images.githubusercontent.com/114108357/196690484-f2285482-35da-482e-b477-3da651e484b1.png">
+
+<img width="843" alt="Screenshot 2022-10-19 at 14 29 03" src="https://user-images.githubusercontent.com/114108357/196678890-264fc68a-ddb6-4e46-a3f1-2dcb6437f385.png">
+
+2. Change the font size of the title:
+
+<img width="187" alt="Screenshot 2022-10-19 at 15 27 42" src="https://user-images.githubusercontent.com/114108357/196690681-90318462-1166-40a8-8962-9f5411a9988f.png">
+
+<img width="843" alt="Screenshot 2022-10-19 at 14 34 04" src="https://user-images.githubusercontent.com/114108357/196679768-45379592-8750-4b47-95ea-7739ec4aa62f.png">
+
+3. Change the "Emerald DApp" link to a different link (this means messing with the <a> tag)
+
+<img width="187" alt="Screenshot 2022-10-19 at 15 27 42" src="https://user-images.githubusercontent.com/114108357/196690926-98506d1d-6a41-4daa-a027-6d5ba1c142ad.png">
+
+<img width="589" alt="Screenshot 2022-10-19 at 15 30 16" src="https://user-images.githubusercontent.com/114108357/196691232-54537e09-9d3f-488e-a6eb-5f804c810f7b.png">
+
+
+4a. Inside of your <main> tag, add a <p> tag and put whatever text you want in it.
+
+<img width="572" alt="Screenshot 2022-10-19 at 15 20 39" src="https://user-images.githubusercontent.com/114108357/196689209-ed4580b7-8512-4c5b-b41f-317001adc3e3.png">
+
+4b. Go to the .main class and add this line: flex-direction: column. Watch what it does!
+
