@@ -60,4 +60,8 @@
 
 
 ## Chapter 2 Day 4
+  
+  <img width="783" alt="Screenshot 2022-10-21 at 17 06 15" src="https://user-images.githubusercontent.com/114108357/197215200-cb609d8a-1029-4748-b9f8-c90275cd5a3c.png">
 
+
+<img width="1565" alt="Screenshot 2022-10-21 at 17 05 13" src="https://user-images.githubusercontent.com/114108357/197215020-f3f60c78-303d-44db-8167-fe57eb2c2e2a.png">
