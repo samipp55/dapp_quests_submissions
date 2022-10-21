@@ -46,8 +46,18 @@
 
 4b. Go to the .main class and add this line: flex-direction: column. Watch what it does!
 
-  <img width="592" alt="Screenshot 2022-10-19 at 15 33 40" src="https://user-images.githubusercontent.com/114108357/196691899-a6d1023a-1871-428f-b5b4-4d5fec9f4fd3.png">
+<img width="270" alt="Screenshot 2022-10-21 at 15 35 35" src="https://user-images.githubusercontent.com/114108357/197197050-184fbdcc-504c-4238-abed-25603b478acc.png">
+  
+<img width="921" alt="Screenshot 2022-10-21 at 15 34 47" src="https://user-images.githubusercontent.com/114108357/197196926-49d51600-6cc9-4096-9fae-27d682be27e7.png">
 
-<img width="1340" alt="Screenshot 2022-10-19 at 15 34 26" src="https://user-images.githubusercontent.com/114108357/196692077-e926e238-d24e-4c6d-95a7-21d9315a70cb.png">
+## Chapter 2 Day 3
+<img width="707" alt="Screenshot 2022-10-21 at 16 11 44" src="https://user-images.githubusercontent.com/114108357/197203996-1dfa231f-0bfc-4a7e-a201-1ec1b4946cc9.png">
 
- I believe this is not wanted result, but I tested few ways to add that flex-direction and didn't find what would make sense for me... 
+
+<img width="707" alt="Screenshot 2022-10-21 at 16 15 43" src="https://user-images.githubusercontent.com/114108357/197204642-e4adc184-c13b-42c4-b500-c6dc1cb1cb07.png">
+
+<img width="1565" alt="Screenshot 2022-10-21 at 16 16 51" src="https://user-images.githubusercontent.com/114108357/197204843-4f1a2efd-dbab-4771-8c74-94fdfa79f2b1.png">
+
+
+## Chapter 2 Day 4
+
