@@ -65,3 +65,13 @@
 
 
 <img width="1565" alt="Screenshot 2022-10-21 at 17 05 13" src="https://user-images.githubusercontent.com/114108357/197215020-f3f60c78-303d-44db-8167-fe57eb2c2e2a.png">
+
+## Chapter 3 Day 1
+  <img width="289" alt="Screenshot 2022-10-21 at 18 52 14" src="https://user-images.githubusercontent.com/114108357/197237744-51b8d9bb-d1ff-49aa-b49b-9a5ba83f0f94.png">
+
+  <img width="293" alt="Screenshot 2022-10-21 at 18 51 41" src="https://user-images.githubusercontent.com/114108357/197237788-75c22696-3fdf-4f0c-928e-83aa84a1f862.png">
+<img width="526" alt="Screenshot 2022-10-21 at 18 51 57" src="https://user-images.githubusercontent.com/114108357/197237812-acf9048c-39a9-4415-b0dc-fdf332fc1aa3.png">
+
+## Chapter 3 Day 2
+  
+  
