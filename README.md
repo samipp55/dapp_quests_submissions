@@ -74,4 +74,14 @@
 
 ## Chapter 3 Day 2
   
+1. Explain why we wouldn't call changeGreeting in a script?
+  Script is for viewing smart contract not for modifying it and changeGreeting purpose is modify the blockchain data.
+  
+2. What does the AuthAccount mean in the prepare phase of the transaction?
+  Every time a user sends a transaction, you have to pay for the transaction, and then you "sign" it. All that means is you clicked a button saying "hey, I want to approve this transaction." When you sign it, the transaction takes in your AuthAccount and can access the data in your account. So AuthAccount is to approve and sign transaction, like opening the access for the information/data in the account
+  
+3. What is the difference between the prepare phase and the execute phase in the transaction?
+  Prepare is opening / signing the access for the information/data in the account / smart contract and then execute is phase where transaction (change data in the blockchain) itself is happening. (You could technically do everything in the prepare phase, but the code is less clear that way. It's better to separate the logic.)
+  
+4. 
   
