@@ -82,6 +82,42 @@
   
 3. What is the difference between the prepare phase and the execute phase in the transaction?
   Prepare is opening / signing the access for the information/data in the account / smart contract and then execute is phase where transaction (change data in the blockchain) itself is happening. (You could technically do everything in the prepare phase, but the code is less clear that way. It's better to separate the logic.)
-  
-4. 
-  
+   
+4.a
+  Add two new things inside your contract:
+```cadence
+    pub contract HelloWorld {
+        pub var greeting: String
+        pub var myNumber: Int
+        pub fun changeGreeting(newGreeting: String) {
+            self.greeting = newGreeting
+        }
+        pub fun updateMyNumber(newNumber: Int){
+            self.myNumber = newNumber
+        }
+        init() {
+            self.greeting = "Hello, World!"
+            self.myNumber = 0
+        }
+    }
+```
+
+4.b Add a script that reads myNumber from the contract
+```cadence
+import HelloWorld from 0x01
+
+pub fun main(): Int {
+    return HelloWorld.myNumber
+}
+```
+4.c Add a transaction that takes in a parameter named myNewNumber and passes it into the updateMyNumber function. Verify that your number changed by running the script again.
+```cadence
+import HelloWorld from 0x01
+transaction(myNewNumber: Int) {
+  prepare(acct: AuthAccount) {
+  }
+  execute {
+    HelloWorld.updateMyNumber(newNumber: myNewNumber)
+  }
+}
+```  
