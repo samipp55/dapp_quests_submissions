@@ -121,3 +121,10 @@ transaction(myNewNumber: Int) {
   }
 }
 ```  
+## Chapter 3 Day 3
+  
+  ISSUE with MAC permissions. Can you help. This is the latests OSX and M1 MAC. 
+  
+  <img width="811" alt="Screenshot 2022-10-22 at 11 57 30" src="https://user-images.githubusercontent.com/114108357/197330815-26cc131b-2316-4d69-9ca1-1a300916d79c.png">
+
+  
