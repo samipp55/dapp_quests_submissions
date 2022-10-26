@@ -127,7 +127,7 @@ transaction(myNewNumber: Int) {
  Create a new smart contract in Cadence that has at least the following two things:
  A variable to hold a value (like a number or a piece of text)
  
- ``Cadence
+ ``` cadence
  pub contract HelloWorld {
 
     pub var greeting: String
@@ -141,5 +141,3 @@ transaction(myNewNumber: Int) {
     }
 }
 ```
-
-  
