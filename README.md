@@ -125,7 +125,7 @@ transaction(myNewNumber: Int) {
 ## Chapter 3 Day 3
   
  Create a new smart contract in Cadence that has at least the following two things:
- A variable to hold a value (like a number or a piece of text)
+ A variable to hold a value (like a number or a piece of text) and A function to change that variable.
  
  ``` cadence
  pub contract HelloWorld {
