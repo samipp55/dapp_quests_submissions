@@ -32,7 +32,8 @@
 
 3. Change the "Emerald DApp" link to a different link (this means messing with the <a> tag)
 
-<img width="187" alt="Screenshot 2022-10-19 at 15 27 42" src="https://user-images.githubusercontent.com/114108357/196690926-98506d1d-6a41-4daa-a027-6d5ba1c142ad.png">
+<img width="581" alt="Screenshot 2022-10-26 at 10 50 20" src="https://user-images.githubusercontent.com/114108357/197966647-5f13b198-1f8b-4fad-8fbc-b6c7cb309117.png">
+
 
 <img width="589" alt="Screenshot 2022-10-19 at 15 30 16" src="https://user-images.githubusercontent.com/114108357/196691232-54537e09-9d3f-488e-a6eb-5f804c810f7b.png">
 
