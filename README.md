@@ -30,7 +30,7 @@
 
 <img width="843" alt="Screenshot 2022-10-19 at 14 34 04" src="https://user-images.githubusercontent.com/114108357/196679768-45379592-8750-4b47-95ea-7739ec4aa62f.png">
 
-3. Change the "Emerald DApp" link to a different link (this means messing with the <a> tag)
+3. Change the "Emerald DApp" link to a different link (this means messing with the a tag)
 
 <img width="581" alt="Screenshot 2022-10-26 at 10 50 20" src="https://user-images.githubusercontent.com/114108357/197966647-5f13b198-1f8b-4fad-8fbc-b6c7cb309117.png">
 
