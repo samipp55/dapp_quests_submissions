@@ -217,4 +217,8 @@ Write a function that executes a script with all the Cadence types that we revie
 
 1. I deployed a contract called SimpleTest to an account with an address of 0x6c0d53c676256e8c. I want you to make a button that, when clicked, sends a transaction to change the number variable from that contract.
 
+<img width="771" alt="Screenshot 2022-10-28 at 1 32 17" src="https://user-images.githubusercontent.com/114108357/198410503-cc1ba344-7eab-4d7f-b565-03526ee943ea.png">
+<img width="929" alt="Screenshot 2022-10-28 at 1 32 42" src="https://user-images.githubusercontent.com/114108357/198410541-0e9fa882-d751-4fda-a622-a4f53df904e2.png">
+
+<img width="771" alt="Screenshot 2022-10-28 at 1 29 36" src="https://user-images.githubusercontent.com/114108357/198410561-f07cf204-8afb-46da-9231-7ee70bb84102.png">
 
