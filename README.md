@@ -196,6 +196,9 @@ It making sure the user variable retains its value even if the page is refreshed
 
 2a. I deployed a contract called SimpleTest to an account with an address of 0x6c0d53c676256e8c. I want you to make a button that, when clicked, executes a script to read the number variable from that contract. If you're curious, you can see the contract here:
 
+<img width="953" alt="Screenshot 2022-10-27 at 19 47 42" src="https://user-images.githubusercontent.com/114108357/198350822-686fb587-1056-4473-beab-3028144b1da2.png">
+
+<img width="857" alt="Screenshot 2022-10-27 at 19 44 50" src="https://user-images.githubusercontent.com/114108357/198350848-f12cfdbb-d59e-44ee-94c6-38df063435a1.png">
 
 
 ## Chapter 4 Day 3:
