@@ -186,3 +186,18 @@ then we Importing & Connecting FCL with config.js -file.
 
 It making sure the user variable retains its value even if the page is refreshed with useEffect.
 
+## Chapter 4 Day 2:
+
+1. Instead of console logging the result after the script executes, I want you to:
+
+<img width="977" alt="Screenshot 2022-10-27 at 19 02 52" src="https://user-images.githubusercontent.com/114108357/198341411-94bb0796-8d0e-4e3c-b113-06f2a6340678.png">
+
+<img width="977" alt="Screenshot 2022-10-27 at 19 04 52" src="https://user-images.githubusercontent.com/114108357/198341544-9991cc0e-b56b-4b4c-b3e5-b09a0ea38f73.png">
+
+2a. I deployed a contract called SimpleTest to an account with an address of 0x6c0d53c676256e8c. I want you to make a button that, when clicked, executes a script to read the number variable from that contract. If you're curious, you can see the contract here:
+
+
+
+## Chapter 4 Day 3:
+
+
