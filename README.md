@@ -222,3 +222,8 @@ Write a function that executes a script with all the Cadence types that we revie
 
 <img width="771" alt="Screenshot 2022-10-28 at 1 29 36" src="https://user-images.githubusercontent.com/114108357/198410561-f07cf204-8afb-46da-9231-7ee70bb84102.png">
 
+2. Immediately after you send the transaction, wait for the transaction to be "Sealed" just like we did today. Then, call a script to read the number from the contract. Console log the result.
+
+<img width="1174" alt="Screenshot 2022-10-28 at 1 46 11" src="https://user-images.githubusercontent.com/114108357/198412058-068a2c8d-a2f8-42aa-beaf-88782993697d.png">
+
+<img width="1478" alt="Screenshot 2022-10-28 at 1 46 46" src="https://user-images.githubusercontent.com/114108357/198412079-d48b36fb-78be-43f7-b023-520562f27dff.png">
