@@ -150,4 +150,39 @@ transaction(myNewNumber: Int) {
 https://flow-view-source.com/testnet/account/0x3157c1d8c9199599
 
 
+## Chapter 4 Day 1:
+
+1. How did we get the address of the user? Please explain in words and then in code?
+
+We need to connect users crypto wallet to our Dapp. 
+And we do that with this code:
+
+<img width="765" alt="Screenshot 2022-10-27 at 15 41 10" src="https://user-images.githubusercontent.com/114108357/198286993-4c6b7292-74b7-4c29-b513-8115e38e5ef6.png">
+
+2. What do fcl.authenticate and fcl.unauthenticate do?
+
+fcl.authenticat logs the user in
+fcl.unauthenticate logs the user out
+
+3a Why did we make a config.js file?
+
+Because Jacob always do that for his projects (That's what he said) :) ... He do it most probably keeping again code clean and nice and different functions in the own file. This file now configurate connection to our Dapp to Flow TestNet (it could be also emulator or MainNet).
+
+3b What does it do?
+
+What this does is it connects our DApp to Flow TestNet and tells our DApp that when we go to log in, we can log in to Blocto & Lilico Wallet (which are both a part of something called "FCL Discovery").
+
+
+4. What does our useEffect do?
+
+useEffect is a function that runs every time something happens. That "something" comes from what is put inside the [] brackets. because [] is empty, this means "every time the page is refreshed".
+
+5. How do we import FCL?
+
+1st we need to install FCL, or the Flow Client Library in our terminal and type npm install @onflow/fcl.
+then we Importing & Connecting FCL with config.js -file.
+
+6. What does fcl.currentUser.subscribe(setUser); do?
+
+It making sure the user variable retains its value even if the page is refreshed with useEffect.
 
