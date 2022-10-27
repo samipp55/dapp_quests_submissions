@@ -215,4 +215,6 @@ Write a function that executes a script with all the Cadence types that we revie
 
 ## Chapter 4 day 4:
 
+1. I deployed a contract called SimpleTest to an account with an address of 0x6c0d53c676256e8c. I want you to make a button that, when clicked, sends a transaction to change the number variable from that contract.
+
 
