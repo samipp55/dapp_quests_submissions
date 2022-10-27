@@ -200,6 +200,12 @@ It making sure the user variable retains its value even if the page is refreshed
 
 <img width="857" alt="Screenshot 2022-10-27 at 19 44 50" src="https://user-images.githubusercontent.com/114108357/198350848-f12cfdbb-d59e-44ee-94c6-38df063435a1.png">
 
+2b. Then, I want you to remove the button, and make the script execute every time the page refreshes.
+
+<img width="953" alt="Screenshot 2022-10-27 at 20 33 53" src="https://user-images.githubusercontent.com/114108357/198359634-3c565d0d-8fbc-4eee-9348-b30a78161fdf.png">
+
+<img width="802" alt="Screenshot 2022-10-27 at 20 34 35" src="https://user-images.githubusercontent.com/114108357/198359658-2348033d-1234-433a-b828-c55e228a497d.png">
+
 
 ## Chapter 4 Day 3:
 
