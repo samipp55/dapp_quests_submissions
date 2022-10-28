@@ -179,8 +179,7 @@ useEffect is a function that runs every time something happens. That "something"
 
 5. How do we import FCL?
 
-1st we need to install FCL, or the Flow Client Library in our terminal and type npm install @onflow/fcl.
-then we Importing & Connecting FCL with config.js -file.
+We Importing & Connecting FCL with config.js -file and more exact with: import * as fcl from "@onflow/fcl"; -commond line
 
 6. What does fcl.currentUser.subscribe(setUser); do?
 
