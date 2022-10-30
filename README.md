@@ -268,10 +268,13 @@ b. Making "Run transaction" whole box high 400 -> 300 from Home.module.css
 
 <img width="290" alt="Screenshot 2022-10-30 at 18 26 45" src="https://user-images.githubusercontent.com/114108357/198889929-610e720d-3ff4-459d-ab67-b22844b9ed6e.png">
 
-c. Changing boder of box 2 to 5 (+ changing whole color set to app blueish)
+c. Changing boder of box 2 to 5 (+ changing whole color set to app blueish = several changes to global and Home css colors)
 <img width="736" alt="Screenshot 2022-10-30 at 18 38 30" src="https://user-images.githubusercontent.com/114108357/198890425-52ba4528-adb4-41c8-985e-ebb6d0b03b9a.png">
 
 <img width="339" alt="Screenshot 2022-10-30 at 18 40 45" src="https://user-images.githubusercontent.com/114108357/198890478-bfd3818d-12b4-4eb1-815e-632f855af3f9.png">
 
 Home.module.css line 28 border: 5px
+
+
+## Chapter 5 day 2:
 
