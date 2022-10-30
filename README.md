@@ -278,3 +278,4 @@ Home.module.css line 28 border: 5px
 
 ## Chapter 5 day 2:
 
+<img width="773" alt="Screenshot 2022-10-30 at 19 33 02" src="https://user-images.githubusercontent.com/114108357/198892719-8bafd685-af8a-4749-b1cf-0096fa06184a.png">
