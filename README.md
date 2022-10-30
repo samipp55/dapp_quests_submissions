@@ -254,5 +254,24 @@ Write a function that executes a script with all the Cadence types that we revie
     
 4. Make at least 3 changes to the styling of the application. It can be anything (part of this quest is being creative!). List the 3 changes and point them out in a screenshot.
 
+a. Change background color:
+<img width="1009" alt="Screenshot 2022-10-30 at 18 18 17" src="https://user-images.githubusercontent.com/114108357/198889671-f9f2caec-6a75-4e5c-a8c8-09f9cbd78bb6.png">
 
+<img width="518" alt="Screenshot 2022-10-30 at 18 22 38" src="https://user-images.githubusercontent.com/114108357/198889750-794dddc6-337b-4016-b58b-c92f0f6f1267.png">
+
+change global.css background colors in line 3 and 22
+
+b. Making "Run transaction" whole box high 400 -> 300 from Home.module.css
+
+
+<img width="748" alt="Screenshot 2022-10-30 at 18 25 47" src="https://user-images.githubusercontent.com/114108357/198889869-4b11adf0-4d6d-44de-a6e2-933d5cbc100f.png">
+
+<img width="290" alt="Screenshot 2022-10-30 at 18 26 45" src="https://user-images.githubusercontent.com/114108357/198889929-610e720d-3ff4-459d-ab67-b22844b9ed6e.png">
+
+c. Changing boder of box 2 to 5 (+ changing whole color set to app blueish)
+<img width="736" alt="Screenshot 2022-10-30 at 18 38 30" src="https://user-images.githubusercontent.com/114108357/198890425-52ba4528-adb4-41c8-985e-ebb6d0b03b9a.png">
+
+<img width="339" alt="Screenshot 2022-10-30 at 18 40 45" src="https://user-images.githubusercontent.com/114108357/198890478-bfd3818d-12b4-4eb1-815e-632f855af3f9.png">
+
+Home.module.css line 28 border: 5px
 
