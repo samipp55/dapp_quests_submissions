@@ -235,7 +235,7 @@ Write a function that executes a script with all the Cadence types that we revie
   Status Code:
   https://developers.flow.com/tools/fcl-js/reference/api#transaction-statuses
   
-## 0 = Unknown : This is a fallout state that, hopefully, no transaction should end here if all goes well. But the Flow state machine does include this state, so the assumption is that it can be reached by a transaction at some point.
+# 0 = Unknown : This is a fallout state that, hopefully, no transaction should end here if all goes well. But the Flow state machine does include this state, so the assumption is that it can be reached by a transaction at some point.
 ## 1 = Pending : The transaction is waiting for its parameters to be validated.
 ## 2 = Finalized : The transaction was deemed viable and can proceed for execution.
 ## 3 = Executed : All the logic within the transaction code was executed without any errors. But at this point its permanent effects in the blockchain aren't set yet.
