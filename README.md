@@ -243,3 +243,16 @@ Write a function that executes a script with all the Cadence types that we revie
 ### 5 = Expired :  If by some reason the transaction was not able to execute and remained in the nether, this state allows to signal invalid transactions.
   
   
+2a. What does setTimeout do?
+    It define wait state e.g. setTimeout(() => setTxStatus('Run Transaction'), 2000); wait 2000ms = 2s before it change setTXStatus to "Run Transaction"
+
+2b. How would we change our code if we wanted the txStatus variable to reset back to its original state after 5 seconds?
+    Update txStatus -> setTimeout(() => setTxStatus('Run Transaction'), 5000);
+   
+3. What does the fcl.tx(transactionId).subscribe(res => {...}) function do?
+    It runs transaction statemachine, meaning in this case submitting transaction to res 
+    
+4. Make at least 3 changes to the styling of the application. It can be anything (part of this quest is being creative!). List the 3 changes and point them out in a screenshot.
+
+
+
