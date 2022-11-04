@@ -250,7 +250,8 @@ Write a function that executes a script with all the Cadence types that we revie
     Update txStatus -> setTimeout(() => setTxStatus('Run Transaction'), 5000);
    
 3. What does the fcl.tx(transactionId).subscribe(res => {...}) function do?
-    It runs transaction statemachine, meaning in this case submitting transaction to res 
+    It utilize a subscribe function that gives us the new status of the transaction every time it changes inside the res object.
+    
     
 4. Make at least 3 changes to the styling of the application. It can be anything (part of this quest is being creative!). List the 3 changes and point them out in a screenshot.
 
